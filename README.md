@@ -1,144 +1,144 @@
 # DessertHub
-
+## This project was developed as a team project with 3 members. 
 ----
 
 <p align="center">
   <img src="portfolio_ppt/スライド4.JPG" width="1000"><br/>
-  <b>スライド 4</b>
+  <b>作品紹介</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド5.JPG" width="1000"><br/>
-  <b>スライド 5</b>
+  <b>サーバー構造の概要</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド6.JPG" width="1000"><br/>
-  <b>スライド 6</b>
+  <b>データベース ERD</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド7.JPG" width="1000"><br/>
-  <b>スライド 7</b>
+  <b>技術 スタック</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド8.JPG" width="1000"><br/>
-  <b>スライド 8</b>
+  <b>Main</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド9.JPG" width="1000"><br/>
-  <b>スライド 9</b>
+  <b>Main footer</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド10.JPG" width="1000"><br/>
-  <b>スライド 10</b>
+  <b>ログイン 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド11.JPG" width="1000"><br/>
-  <b>スライド 11</b>
+  <b>会員登録 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド12.JPG" width="1000"><br/>
-  <b>スライド 12</b>
+  <b>ID検索 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド13.JPG" width="1000"><br/>
-  <b>スライド 13</b>
+  <b>パスワード検索 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド14.JPG" width="1000"><br/>
-  <b>スライド 14</b>
+  <b>マイページ 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド15.JPG" width="1000"><br/>
-  <b>スライド 15</b>
+  <b>プロファイル画像 変更画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド16.JPG" width="1000"><br/>
-  <b>スライド 16</b>
+  <b>ユーザー情報編集 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド17.JPG" width="1000"><br/>
-  <b>スライド 17</b>
+  <b>お気に入りリスト管理 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド18.JPG" width="1000"><br/>
-  <b>スライド 18</b>
+  <b>投稿・コメント・ギャラリー管理画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド19.JPG" width="1000"><br/>
-  <b>スライド 19</b>
+  <b>会員退会管理 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド20.JPG" width="1000"><br/>
-  <b>スライド 20</b>
+  <b>掲示板 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド21.JPG" width="1000"><br/>
-  <b>スライド 21</b>
+  <b>掲示板投稿 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド22.JPG" width="1000"><br/>
-  <b>スライド 22</b>
+  <b>投稿の詳細 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド23.JPG" width="1000"><br/>
-  <b>スライド 23</b>
+  <b>写真アップロード 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド24.JPG" width="1000"><br/>
-  <b>スライド 24</b>
+  <b>サイト紹介 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド25.JPG" width="1000"><br/>
-  <b>スライド 25</b>
+  <b>デザート推薦ギャラリー 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド26.JPG" width="1000"><br/>
-  <b>スライド 26</b>
+  <b>ランダム抽選 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド27.JPG" width="1000"><br/>
-  <b>スライド 27</b>
+  <b>性格診断ゲーム 画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド28.JPG" width="1000"><br/>
-  <b>スライド 28</b>
+  <b>トーナメント方式 　画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド29.JPG" width="1000"><br/>
-  <b>スライド 29</b>
+  <b>ゲーム結果　画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド30.JPG" width="1000"><br/>
-  <b>スライド 30</b>
+  <b>404 エラー  画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド31.JPG" width="1000"><br/>
-  <b>スライド 31</b>
+  <b>所感</b>
 </p>
 
