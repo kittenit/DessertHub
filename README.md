@@ -3,21 +3,6 @@
 ----
 
 <p align="center">
-  <img src="portfolio_ppt/スライド1.JPG" width="1000"><br/>
-  <b>スライド 1</b>
-</p>
-
-<p align="center">
-  <img src="portfolio_ppt/スライド2.JPG" width="1000"><br/>
-  <b>スライド 2</b>
-</p>
-
-<p align="center">
-  <img src="portfolio_ppt/スライド3.JPG" width="1000"><br/>
-  <b>スライド 3</b>
-</p>
-
-<p align="center">
   <img src="portfolio_ppt/スライド4.JPG" width="1000"><br/>
   <b>スライド 4</b>
 </p>
