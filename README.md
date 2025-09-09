@@ -137,8 +137,3 @@
   <b>404 エラー  画面</b>
 </p>
 
-<p align="center">
-  <img src="portfolio_ppt/スライド31.JPG" width="1000"><br/>
-  <b>所感</b>
-</p>
-
